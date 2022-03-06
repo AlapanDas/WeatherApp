@@ -1,5 +1,6 @@
 import tkinter
 from weather import show_weather
+
 def push():
     str=e.get()
     if str!='':
